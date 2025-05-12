@@ -1,0 +1,282 @@
+@media only screen and (max-width:600px) {
+    
+    .first-right-sec h1 {
+        font-size: 20px !important;
+        width: 100% !important;
+         
+    }
+    .first-text-sec h6 {
+        font-size: 10px !important;
+        width: 100% !important;
+    }
+    
+    #popUp {
+        display: none;
+    }
+    #logIn {
+        display: none !important;
+    }
+    .second-main-sec h1 {
+        font-size: 40px;
+
+    }
+    .second-main-sec p {
+        min-width:100% !important;
+        font-size:16px!important;
+    }
+    .second-right-sec {
+        min-height: auto !important;
+    }
+    
+    .third-left-sec h1 {
+        font-size: 20px !important;
+        width: 100% !important;
+    }
+    .third-left-sec p {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+    .third-text-sec {
+        gap: 5px;
+    }
+    .third-text-sec h4 {
+        font-size: 12px !important;
+    }
+    .third-text-sec h4 img {
+        height: 15px !important;
+    }
+    .third-right-sec {
+       min-height: auto !important;
+        
+    }
+
+    .third-right-sec img {
+        max-width: 100%; 
+        height: 250px !important;
+    
+    }
+    .fourth-cards-sec {
+        display: flex;
+        flex-direction: column;
+    }
+    .fourth-card {
+        width: 80% !important
+    }
+    .fifth-main-sec {
+        min-height: auto !important;
+    }
+    .fifth-left-sec img {
+        height: 250px !important;
+        width: 100% !important;
+    }
+    
+    .fifth-right-sec h1 {
+        font-size: 25px !important;
+        width: 100% !important;
+    }
+    .fifth-right-sec p {
+        font-size: 12px !important;
+    }
+    .fifth-right-sec button {
+        padding: 7px 15px !important;
+        letter-spacing: 0px !important;
+    }
+    .sixth-right-sec p {
+        font-size: 15px !important;
+    }
+    .eight-card  {
+        width: 70% !important;
+    }
+}
+
+@media only screen and (max-width:431px) {
+    .third-left-sec p {
+        font-size: 15px !important;
+        width: 100% !important;
+    }
+    .fourth-card {
+        width: 80% !important
+    }
+}
+@media only screen and (max-width:768px) {
+    .first-right-sec h1 {
+        font-size: 20px !important;
+        width: 100% !important; 
+    }
+     .first-left-sec img {
+        height: 300px !important;
+     }
+    
+     .third-left-sec h1 {
+        font-size: 20px !important;
+        width: 100% !important;
+    }
+    .third-left-sec p {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+    .third-text-sec {
+        gap: 5px;
+    }
+    .third-text-sec h4 {
+        font-size: 12px !important;
+    }
+    .third-text-sec h4 img {
+        height: 15px !important;
+    }
+    .fifth-main-sec {
+        min-height: auto !important;
+    }
+    .fifth-right-sec h1 {
+        font-size: 25px !important;
+        width: 100% !important;
+    }
+    .fifth-right-sec p {
+        font-size: 12px !important;
+    }
+    /* .eight-card h5 {
+        font-size: 15px !important;
+   } */
+}
+@media only screen and (max-width:1024px) {
+    
+    .third-right-sec img {
+        height: 400px;
+    }
+    
+    #popUp {
+        z-index: 111111;
+        top: 70% !important;
+    }
+    .fourth-card p {
+        font-size: 15px !important;
+    }
+}
+@media only screen and (width:912px) {
+    .first-left-sec img {
+        height: 300px !important;
+    }
+    .first-right-sec h1 {
+        font-size: 25px !important;
+        width: 100% !important;
+    }
+    #popUp {
+        z-index: 111111;
+        top: 50% !important;
+    }
+    .third-left-sec h1 {
+        font-size: 30px !important;
+    }
+    .third-left-sec p {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+    .third-text-sec h4 {
+        font-size: 15px !important;
+    }
+    .third-text-sec h4 img {
+        height: 20px !important;
+    }
+    .fifth-main-sec {
+        min-height: auto !important;
+    }
+    .fifth-left-sec img {
+        height: 350px;
+        width: 100%;
+    }
+    .fifth-right-sec h1 {
+        font-size: 30px !important;
+        width: 100% !important;
+    }
+    .fifth-right-sec p {
+        font-size: 15px !important;
+    }
+
+} 
+@media only screen and (width:820px) {
+    .first-right-sec h1 {
+        font-size: 30px !important;
+        width: 100% !important;
+    }
+    #popUp {
+        top: 60% !important;
+    }
+    .third-left-sec h1 {
+        font-size: 30px !important;
+    }
+    .third-left-sec p {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+    .third-text-sec h4 {
+        font-size: 15px !important;
+    }
+    .fifth-left-sec img {
+        height: 350px;
+        width: 100%;
+    }
+    .fifth-right-sec h1 {
+        font-size: 30px !important;
+        width: 100% !important;
+    }
+    .fifth-right-sec p {
+        font-size: 15px !important;
+        width: 100% !important;
+    }
+}
+@media only screen and (width:540px)  {
+    .first-right-sec h1 {
+        width: 100% !important;
+    }
+}
+@media only screen and (width:344px) {
+    .first-right-sec h1 {
+        width: 100% !important;
+    }
+    .third-left-sec h1 {
+        width: 100% !important;
+        font-size: 25px !important;
+    }
+    .third-left-sec p {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+    .third-text-sec h4 {
+        font-size: 12px !important;
+    }
+    .third-text-sec h4 img {
+        height: 20px !important;
+    }
+    .fourth-text-sec p {
+        font-size: 15px !important;
+    }
+    .fourth-inner-card {
+        width: 100% !important;
+    }
+    .fourth-inner-card p {
+        font-size: 17px !important;
+        width: 100% !important;
+    }
+    .fifth-left-sec img {
+        height: 250px;
+        width: 100%;
+    }
+    .fifth-right-sec h1 {
+        font-size: 25px !important;
+        width: 100% !important;
+    }
+}
+@media only screen and (width:360px) {
+    .first-right-sec h1 {
+        width: 100% !important;
+        font-size: 25px !important;
+    }
+    .fourth-inner-card {
+        width: 100% !important;
+    }
+    .fourth-inner-card p {
+        font-size: 15px !important;
+        width: 100% !important;
+    }
+}
+
